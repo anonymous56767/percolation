@@ -1,4 +1,4 @@
-# perc1
+# percolation
  test percolation repo
 This Python script simulates and visualizes a percolation process using Voronoi diagrams and logistic curves. Below is a breakdown of the code:
 
